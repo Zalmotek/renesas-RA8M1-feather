@@ -22,8 +22,9 @@
 - [x] LEDs/Neopixels
 ## 3-connectivity
 - [ ] RTK00WFMX0B00000BE renesas wifi module
-- [ ] particle msom uart communication
+- [x] particle msom uart communication
 ## 4-edgeai
 - [ ] Edge Impulse sensor fusion
+- [x] Edge Impulse Data Forwarder
 ## 5-robodog
 - [ ] walk
