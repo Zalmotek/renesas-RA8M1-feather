@@ -2,7 +2,7 @@
 
 ## 1-inputs
 ### analog sensors
-- [ ] 3v3 sharp sensor
+- [x] 3v3 sharp sensor
 - [ ] adafruit analog light sensor
 - [ ] ultrasonic sensor
 ### digital sensors
