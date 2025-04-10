@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<raModuleDescription>
+  <config id="config.board.ra8m1_feather" path="fsp_cfg/bsp/board_cfg.h" version="0">
+    <content>#include "../../../ra/board/ra8m1_feather/board.h"</content>
+  </config>
+  <board config="config.board.ra8m1_feather" device="R7FA8M1AFECFP" display="RA8M1_Feather" id="board.ra8m1_feather" version="0"/>
+</raModuleDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<azone>
+    <rzone name="R7FA8M1AFECFP.rzone"/>
+    <partition>
+        <peripheral name="PORT0" group="PORT">
+            <slot name="P000" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT1" group="PORT">
+            <slot name="P107" secure="true"/>
+        </peripheral>
+        <peripheral name="ADC0" group="ADC" security=""/>
+        <peripheral name="ICU">
+            <slot name="IRQ0" secure="true"/>
+            <slot name="IRQ1" secure="true"/>
+        </peripheral>
+    </partition>
+</azone>
