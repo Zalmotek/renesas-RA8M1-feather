@@ -6,7 +6,7 @@ Here you'll find all the resources you need to get up and running quickly.
 
 ## 🪶 What is the RA8M1 Feather SoM?
 
-The <a href="https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra8m1-200mhz-arm-cortex-m85-microcontroller">Renesas RA8M1</a> allows you to achieve the full potential of a real-time operating system (RTOS) while leveraging the performance boost provided by the 64-bit Arm® Cortex®-M85 CPU core with a maximum operating frequency of 360 MHz.
+The <a href="https://www.renesas.com/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra8m1-480mhz-arm-cortex-m85-based-microcontroller-helium-and-trustzone">Renesas RA8M1</a> allows you to achieve the full potential of a real-time operating system (RTOS) while leveraging the performance boost provided by the 64-bit Arm® Cortex®-M85 CPU core with a maximum operating frequency of 360 MHz.
 
 Besides the processor, the Feather SoM contains the classic Feather features: GPIOs (analog and digital), I2C and SPI communication pins, UART pins, a LiPo battery power plug, and the USB programming port. The SoM also features a USB Type-C for powering the board and for USB debug upload, making it perfect for high-performance embedded applications requiring advanced security features.
 
@@ -35,16 +35,9 @@ You will also need to install the J-Link Software pack from <a href="https://www
 
 #### Running your first project
 
-Once you have all the tools installed, follow <a href="https://github.com/Zalmotek/renesas-RA8M1-feather/tree/main/firmware/Blink">this</a> guide to learn how to import, build, and run a project in the e² studio IDE. 
+Once you have all the tools installed, follow <a href="https://github.com/Zalmotek/renesas-RA8M1-feather/tree/main/firmware/Blink/RA8M1_Feather_Blink">this</a> guide to learn how to import, build, and run a project in the e² studio IDE. 
 
 ---
 Thank you for choosing the Renesas RA8M1 Feather SoM! 
 
 We can't wait to see what amazing projects you'll create with it! 💻✨
-
-## 0. Getting Started with the RA8M1 Feather SoM using the Renesas e² studio IDE
-## 1. Robotics Sensors with the Renesas RA8M1 Feather SoM
-## 2. Controlling Outputs with the Renesas RA8M1 Feather SoM 
-## 3. Connectivity and Remote Control in Robotics with the RA8 Feather SoM 
-## 4. Edge ML with the RA8 Feather SoM 
-## 5. RA8M1 Feather SoM-Powered Robotic Dog
